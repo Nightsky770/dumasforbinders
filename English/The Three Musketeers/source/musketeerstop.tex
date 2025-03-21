@@ -1,0 +1,150 @@
+\documentclass[
+%paper=5.5in:8.5in,
+a5paper,
+]{scrbook} 
+
+\usepackage{bindery}
+\usepackage{dropcaps}
+\usepackage{epistolary}
+
+\setdropcaps{FloralCapitals.ttf}
+\renewcommand{\thechapter}{\Roman{chapter}}
+
+
+
+\BeforeTOCHead[toc]{%
+  \KOMAoptions{parskip=false}% no parskip in ToC
+%  \RedeclareSectionCommand[afterskip=1sp minus 1sp]{chapter}% no skip after ToC title
+}
+
+\DeclareTOCStyleEntry[beforeskip=.1cm,dynnumwidth=true,linefill=\TOCLineLeaderFill]{chapter}{chapter}
+
+
+\automark{chapter}
+\lehead{The Three Musketeers}
+%\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \arabic{chapter}:\ #1}{}}
+\rohead{\leftmark}
+\flushbottom
+
+
+\begin{document}
+\frontmatter
+ \includepdf[width=1.3\textwidth]{titlepage.jpg}
+\tableofcontents
+ 
+ \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+ \include{chapters/prologue.tex}
+ \renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \arabic{chapter}:\ #1}{}}
+ 
+\mainmatter
+\pagestyle{headings}
+\KOMAoptions{headings=openright}
+
+\include{chapters/01.tex}
+\include{chapters/02.tex}
+\include{chapters/03.tex}
+\include{chapters/04.tex}
+\include{chapters/05.tex}
+\include{chapters/06.tex}
+\include{chapters/07.tex}
+\include{chapters/08.tex}
+\include{chapters/09.tex}
+\include{chapters/10.tex}
+\include{chapters/11.tex}
+\include{chapters/12.tex}
+\include{chapters/13.tex}
+\include{chapters/14.tex}
+\include{chapters/15.tex}
+\include{chapters/16.tex}
+\include{chapters/17.tex}
+\include{chapters/18.tex}
+\include{chapters/19.tex}
+\include{chapters/20.tex}
+\include{chapters/21.tex}
+\include{chapters/22.tex}
+\include{chapters/23.tex}
+\include{chapters/24.tex}
+\include{chapters/25.tex}
+\include{chapters/26.tex}
+\include{chapters/27.tex}
+\include{chapters/28.tex}
+\include{chapters/29.tex}
+\include{chapters/30.tex}
+\include{chapters/31.tex}
+\include{chapters/32.tex}
+\include{chapters/33.tex}
+\include{chapters/34.tex}
+\include{chapters/35.tex}
+\include{chapters/36.tex}
+\include{chapters/37.tex}
+\include{chapters/38.tex}
+\include{chapters/39.tex}
+\include{chapters/40.tex}
+\include{chapters/41.tex}
+\include{chapters/42.tex}
+\include{chapters/43.tex}
+\include{chapters/44.tex}
+\include{chapters/45.tex}
+\include{chapters/46.tex}
+\include{chapters/47.tex}
+\include{chapters/48.tex}
+\include{chapters/49.tex}
+\include{chapters/50.tex}
+\include{chapters/51.tex}
+\include{chapters/52.tex}
+\include{chapters/53.tex}
+\include{chapters/54.tex}
+\include{chapters/55.tex}
+\include{chapters/56.tex}
+\include{chapters/57.tex}
+\include{chapters/58.tex}
+\include{chapters/59.tex}
+\include{chapters/60.tex}
+\include{chapters/61.tex}
+\include{chapters/62.tex}
+\include{chapters/63.tex}
+\include{chapters/64.tex}
+\include{chapters/65.tex}
+\include{chapters/66.tex}
+\include{chapters/67.tex}
+\include{chapters/68.tex}
+
+\KOMAoptions{headings=openright}
+
+
+\KOMAoptions{headings=openleft}
+\chapter*{Colophon}
+
+\centering
+
+\vfill
+\begin{minipage}{\textwidth}
+\textit{The Three Musketeers} was serialised in the French newspaper \textit{Le Siècle} between March and July of 1844. Alexandre Dumas \textit{père} (1802--1870) would later call it his favourite work. As wtih most of Dumas' works, it was a collaboration with his writing partner Auguste Maquet (1813--1888).
+
+Title page decoration is an engraving by Jules Huyot (1841--1921) based on a drawing by Maurice Leloir (1853--1940), and was originally published in 1894 by Calmann-Lévy in Paris (France).
+
+\end{minipage}
+\vfill
+gutenberg.org/ebooks/1257
+\vfill
+\divider
+\vfill
+\begin{minipage}{\textwidth}
+Text is set in <EB Garamond,> Georg Mayr-Duffner's free and open source implementation of Claude Garamond’s famous humanist typefaces from the mid-sixteenth century. This digital version reproduces the original design by Claude Garamont closely: the source for the letterforms is a scan of a specimen known as the <Berner specimen,> which was composed in 1592 by Conrad Berner, the son-in-law of Christian Egenolff and his successor at the Egenolff print office.
+
+Title page is set in <Lombardic>, by Manfred Klein.
+\end{minipage}
+\vfill
+github.com/georgd/EB-Garamond
+\vfill
+\divider
+\vfill
+\begin{minipage}{\textwidth}
+This typeset is dedicated to the public domain under a Creative Commons CC0 1.0 Universal deed: creativecommons.org/publicdomain/zero/1.0/\\
+\end{minipage}
+\vfill
+\divider
+\vfill
+Typeset in \LaTeX{}. Last revised \today.
+\thispagestyle{empty}
+\end{document}
