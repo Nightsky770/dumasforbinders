@@ -1,14 +1,14 @@
 \documentclass[
-%paper=5.5in:8.5in,
-a5paper,
+paper=5.5in:8.5in,
+%a5paper,
 ]{scrbook} 
 
 \usepackage{bindery}
 \usepackage{dropcaps}
 \usepackage{epistolary}
 
-%\setdropcaps{fleurcornercaps.regular.ttf}
-\setdropcaps{FloralCapitals.ttf}
+\setdropcaps{MysteriousVoyage.ttf}
+
 
 \setdefaultlanguage{french}
 
@@ -115,5 +115,40 @@ a5paper,
 \include{chapters/67.tex}
 \include{chapters/68.tex}
 
+\KOMAoptions{headings=openleft}
+\chapter*{Colophon}
+
+\centering
+
+\vfill
+\begin{minipage}{\textwidth}
+\textit{Les Trois Mousquetaires} a été publié en feuilleton dans le journal français \textit{Le Siècle} entre mars et juillet 1844. Alexandre Dumas \textit{père} (1802--1870) le qualifiera plus tard comme son œuvre préférée. Comme la plupart des œuvres de Dumas, ce fut une collaboration avec son partenaire d'écriture Auguste Maquet (1813--1888).
+L'illustration de la page de titre est tiré d'une affiche par Jules Chéret (1836--1932) commandée en 1887 pour promouvoir une édition publiée par Jules Rouff \& C\textsuperscript{ie} à Paris (France).
+\end{minipage}
+\vfill
+gutenberg.org/ebooks/1257
+\vfill
+\divider
+\vfill
+\begin{minipage}{\textwidth}
+Le texte est composé en <EB Garamond,> l'implémentation libre et open source par Georg Mayr-Duffner des célèbres caractères humanistes de Claude Garamond du milieu du seizième siècle. Cette version numérique reproduit fidèlement le design original de Claude Garamont : la source des formes de lettres est un scan d'un spécimen connu sous le nom de <spécimen Berner,> qui a été composé en 1592 par Conrad Berner, le gendre de Christian Egenolff et son successeur à l'imprimerie Egenolff.
+
+Les lettrines sont composées en <Mysterious Voyage>, par Paul Lloyd.
+\end{minipage}
+\vfill
+github.com/georgd/EB-Garamond\\moorstation.org/typoasis/designers/lloyd/
+\vfill
+\divider
+\vfill
+\begin{minipage}{\textwidth}
+Cette composition typographique est dédiée au domaine public sous une licence Creative Commons CC0 1.0 Universal. 
+\end{minipage}
+\vfill
+creativecommons.org/publicdomain/zero/1.0/\
+\vfill
+\divider
+\vfill
+Composé en \LaTeX{}. Dernière révision \today.
+\thispagestyle{empty}
 
 \end{document}
