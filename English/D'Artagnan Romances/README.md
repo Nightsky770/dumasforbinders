@@ -14,8 +14,6 @@ The Three Musketeers: Etext 1257—First book of the D’Artagnan Romances. Cove
 
 Twenty Years After: Etext 1259—Second book of the D’Artagnan Romances. Covers the years 1648-1649. [Third in the order that we published, but second in time sequence!!!]
 
-Ten Years Later: Etext 1258—First 104 chapters of the third book of the D’Artagnan Romances. Covers the years 1660-1661.
-
 The Vicomte de Bragelonne: Etext 2609 (first in the new series)—First 75 chapters of the third book of the D’Artagnan Romances. Covers the year 1660.
 
 Ten Years Later: Etext 2681 (second in the new series)—Chapters 76-140 of that third book of the D’Artagnan Romances. Covers the years 1660-1661. [In this particular editing of it]
@@ -23,7 +21,5 @@ Ten Years Later: Etext 2681 (second in the new series)—Chapters 76-140 of that
 Louise de la Vallière: Etext 2710 (our new text)—Chapters 141-208 of the third book of the D’Artagnan Romances. Covers the year 1661.
 
 The Man in the Iron Mask: forthcoming (our next text)—Chapters 209-269 of the third book of the D’Artagnan Romances. Covers the years 1661-1673.
-
-If we’ve calculated correctly, that fourth text SHOULD correspond to the modern editions of The Man in the Iron Mask, which is still widely circulated, and comprises about the last 1/4 of The Vicomte de Bragelonne.
 
 Many thanks to Dr. David Coward, whose editions of the D’Artagnan Romances have proved an invaluable source of information.
