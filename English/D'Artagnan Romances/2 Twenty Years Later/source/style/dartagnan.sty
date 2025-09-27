@@ -1,0 +1,20 @@
+\usepackage[namedChapters,romanChapters]{bindery}
+\usepackage{dropcaps}
+\usepackage{epistolary}
+\usepackage{illustrations}
+
+\setdropcaps{MysteriousVoyage.ttf}
+\newfontfamily\oldfont{IMFeGPrm29C.otf}
+
+\setcounter{DefaultLines}{5}
+\renewcommand{\listfigurename}{List of Illustrations} 
+
+\hyphenation{Cap-ra-ra}
+
+\BeforeTOCHead[toc]{%
+  \KOMAoptions{parskip=false}% no parskip in ToC
+%  \RedeclareSectionCommand[afterskip=1sp minus 1sp]{chapter}% no skip after ToC title
+}
+
+\DeclareTOCStyleEntry[beforeskip=.1cm,dynnumwidth=true,linefill=\TOCLineLeaderFill]{chapter}{chapter}
+
