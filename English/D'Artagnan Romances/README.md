@@ -1,7 +1,8 @@
 Overall emendations: I am aiming for consistency across all these volumes. 
 1. I have restored accents to all French words that normally have them.
 2. In French, a surname like "D'Artagnan" has the "D" capitalized only when beginning a sentence. (The "d'", short for "de", just means "of" and is not properly part of the surname.) I have maintained this for the French versions but have changed all lowercase "d'Artagnan" to "D'Artagnan" (and similar) because the English versions seem to prefer capitalizing all of a (perceived) surname.
-3. Conventions seem to differ between the four books as to (e.g.) whether the names of inns are italicized or appear in quotes (or are not called out at all); which French words are italicized; etc. If one book has a specific French word italicized, I have italicized it across all books. For consistency's sake, I have put the names of inns in quotes. Check the dartagnan.sty style file, which has the definitions I've used, to alter these to suit your tastes.
+3. The books differ on whether Louise de La Valliere's name has the "la" capitalized. The internet also differs on this, with both English and French sites using them pretty much at random. My eye prefers "la Valliere", but according to Wikipedia the actual name of the duchy was "La Valliere" (https://en.wikipedia.org/wiki/Duchy_of_La_Valli%C3%A8re) so I have settled on "Louise de La Valliere".
+4. Conventions seem to differ between the four books as to (e.g.) whether the names of inns are italicized or appear in quotes (or are not called out at all); which French words are italicized; etc. If one book has a specific French word italicized, I have italicized it across all books. For consistency's sake, I have put the names of inns in quotes. Check the dartagnan.sty style file, which has the definitions I've used, to alter these to suit your tastes.
 
 --------------------
 
