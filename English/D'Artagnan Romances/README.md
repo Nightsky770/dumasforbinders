@@ -1,7 +1,11 @@
-From Project Gutenberg, a description of how this version of the D'Artagnan Romances is going to work. This applies to the English version only; the French versions will have their own volumes and numbering.
+Overall emendations: I am aiming for consistency across all these volumes. 
+1. I have restored accents to all French words that normally have them.
+2. In French, a surname like "D'Artagnan" has the "D" capitalized only when beginning a sentence. (The "d'", short for "de", just means "of" and is not properly part of the surname.) I have maintained this for the French versions but have changed all lowercase "d'Artagnan" to "D'Artagnan" (and similar) because the English versions seem to prefer capitalizing all of a (perceived) surname.
+3. Conventions seem to differ between the four books as to (e.g.) whether the names of inns are italicized or appear in quotes (or are not called out at all); which French words are italicized; etc. If one book has a specific French word italicized, I have italicized it across all books. For consistency's sake, I have put the names of inns in quotes. Check the dartagnan.sty style file, which has the definitions I've used, to alter these to suit your tastes.
 
-Transcriber’s Notes:
-As you may be aware, Project Gutenberg has been involved with the writings of both the Alexandre Dumases for some time now, and since we get a few questions about the order in which the books should be read, and in which they were published, these following comments should hopefully help most of our readers.
+--------------------
+
+From Project Gutenberg, a description of how this version of the D'Artagnan Romances is going to work. This applies to the English version only; the French versions will have their own volumes and numbering.
 
 ***
 The Vicomte de Bragelonne is the final volume of D’Artagnan Romances: it is usually split into three or four parts, and the final portion is entitled The Man in the Iron Mask. The Man in the Iron Mask we’re familiar with today is the last volume of the four-volume edition. [Not all the editions split them in the same manner, hence some of the confusion...but wait...there’s yet more reason for confusion.]
