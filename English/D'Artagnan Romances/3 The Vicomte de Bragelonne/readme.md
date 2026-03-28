@@ -17,9 +17,9 @@ Emendations:
 * Chapter 12: I have corrected "Daangeau" to "Dangeau" (clear typo).
 * Chapter 18: I have capitalized "Middle Ages". I have set "Bergeries" (name of a book) in italics instead of quotes.
 * Chapter 23: I have corrected "aid-de-camp" to "aide-de-camp".
-* Chapter 45: I have changed the footnote from: "This is quite untranslatable—it being a play upon the words pecheur (with a grave over the first e), a sinner, and pecheur (with an accent circumflex over the first e), a fisherman. It is in very bad taste.—TRANS."to: "This is quite untranslatable—it being a play upon the words \textit{pècheur} (with a grave over the first e), a sinner, and \textit{pêcheur} (with an accent circumflex over the first e), a fisherman.—TRANS.". I dislike value judgments in footnotes.
-* Chapter 47: I have italicized "lever" because it is a French word in this context and not one of the six simple machines (as funny as it would be to picture courtiers clustering around the king's lever, pulley, inclined plane, etc.); then, for consistency, I've italicized "coucher".
+* Chapter 45: I have changed the footnote from: "This is quite untranslatable—it being a play upon the words pecheur (with a grave over the first e), a sinner, and pecheur (with an accent circumflex over the first e), a fisherman. It is in very bad taste.—TRANS."to: "This is quite untranslatable—it being a play upon the words pècheur (with a grave over the first e), a sinner, and pêcheur (with an accent circumflex over the first e), a fisherman.—TRANS.". I dislike value judgments in footnotes. I've also placed "Chronicle", the name of a book, in italics.
+* Chapter 47: I have italicized "lever" because it is a French word in this context and not one of the six simple machines (as funny as it would be to picture courtiers, having finished with the king's lever, then clustering around the king's pulley, inclined plane, etc.); then, for consistency, I've italicized "coucher".
 * Chapter 49: I have set "Flora" (name of a painting) in italics instead of quotes.
 * Chapter 53: I have corrected "Bell-Isle" to "Belle-Isle".
-* Chapter 61: I have changed "La Touraine" to just "Touraine", which is what the other books have.
+* Chapter 61: I have changed "La Touraine" to just "Touraine", which is what the other books have, plus "La Touraine" just feels weird and wrong to me, sort of like saying "The Kentucky".
 * Chapter 65: I have set "Much Ado About Nothing" (name of a play) in italics instead of quotes.
