@@ -21,5 +21,4 @@ Emendations:
 * Chapter 47: I have italicized "lever" because it is a French word in this context and not one of the six simple machines (as funny as it would be to picture courtiers, having finished with the king's lever, then clustering around the king's pulley, inclined plane, etc.); then, for consistency, I've italicized "coucher".
 * Chapter 49: I have set "Flora" (name of a painting) in italics instead of quotes.
 * Chapter 53: I have corrected "Bell-Isle" to "Belle-Isle".
-* Chapter 61: I have changed "La Touraine" to just "Touraine", which is what the other books have, plus "La Touraine" just feels weird and wrong to me, sort of like saying "The Kentucky".
 * Chapter 65: I have set "Much Ado About Nothing" (name of a play) in italics instead of quotes.
